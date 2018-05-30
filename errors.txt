@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label poll2Chi is defined twice, at
+  File "game/script.rpy", line 488 and
+  File "game/script.rpy", line 628.
+
+The label poll2Tsu is defined twice, at
+  File "game/script.rpy", line 494 and
+  File "game/script.rpy", line 634.
+
+The label endpoll2 is defined twice, at
+  File "game/script.rpy", line 501 and
+  File "game/script.rpy", line 641.
+
+Ren'Py Version: Ren'Py 6.99.14.1.3218
+Wed May 23 01:14:34 2018
