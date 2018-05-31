@@ -135,11 +135,10 @@ label start:
     voice "voice/chi intro 13.ogg"
     chi "Aaaah..."
 
-    #TODO: NOT SURE IF THIS WORKS PROPERLY, IF IT DOESN'T WE'LL PROLLY TAKE OUT THE EXTENSION
-
     voice "voice/chi intro 14.ogg"
     extend "weeeell..."
 
+    #voice: due for retake
     voice "voice/Kiyoko_Line_7.ogg"
     tsu "They're cramming for finals instead of honoring their commitments to Anime Club. Like {i}plebeians{/i}."
 
@@ -784,6 +783,7 @@ label start:
     voice "voice/chi r3 17.ogg"
     chi "No! I would never-"
 
+    #voice: due for retake
     voice "voice/pro r3 13.ogg"
     pro "I dunno, I think she was calling you stupid."
 
@@ -1047,6 +1047,7 @@ label start:
         voice "voice/chi bf 16.ogg"
         chi "Hehehe~! I guess? But they're pretty popular too!"
 
+        #voice: due for retake
         voice "voice/chi bf 17.ogg"
         chi "Something about another person uncompromisingly in love with you is... kinda romantic, in a weird way!"
 
@@ -1073,6 +1074,7 @@ label start:
         voice "voice/pro bf 13.ogg"
         pro "Well, Chihiro, you've given me a lot to think about."
 
+        #voice: missing line
         voice "voice/chi bf 21.ogg"
         chi "Mmhm! I knew you'd have a lot of fun at Anime Club!~"
 
