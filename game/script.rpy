@@ -4,6 +4,14 @@
 # name of the character.
 
 #TODO: Add backgrounds and sprites where appropriate
+### BACKGROUNDS ###
+
+image classroom = im.Scale("bgs/classroom.png", 1920, 1080)
+image classroomevening = im.Scale("bgs/classroom evening.png", 1920, 1080)
+image hallway = im.Scale("bgs/hallway school.png", 1920, 1080)
+image hallwayevening = im.Scale("bgs/hallway school evening.png", 1920, 1080)
+
+
 #TODO: add audio where appropriate
 
 #TODO: if your are adding more characters, dont forget to update them in pollScore variable as well
@@ -22,6 +30,7 @@ label start:
 
     ### SCENE: INTRO ###
 
+    scene black with dissolve
     "School began as any other school day did. It also ended in more or less the same manner."
     "It's what happened {i}after{/i} school that things started to get a little hectic."
 
@@ -30,7 +39,7 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    scene bg hallway
+    scene hallway with dissolve
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
@@ -79,7 +88,7 @@ label start:
     voice "voice/chi intro 6.ogg"
     chi "Ah, here we are!"
 
-    scene bg classroom
+    scene classroom with dissolve
 
     voice "voice/chi intro 7.ogg"
     chi "Here we are! The abandoned classroom on the second floor."
@@ -365,11 +374,13 @@ label start:
     voice "voice/chi r1 2.ogg"
     chi "I got one! In {i}Rama-sama Ramen Saga{/i}, there's these two girls who are twins! But they're also super opposite in personalities??"
 
+    voice "voice/Kiyoko_Line_33.ogg"
     tsu "Ah, Netsu and Hiyasu! Good thinking!"
 
     voice "voice/pro r1 1.ogg"
     pro "Who and who??"
 
+    voice "voice/Kiyoko_Line_34.ogg"
     tsu "Two prodigal chefs specializing in complementing and contrasting symbols of yin and yang, carefully balancing opposing flavours to elevate the senses!"
 
     voice "voice/chi r1 3.ogg"
@@ -384,6 +395,7 @@ label start:
     voice "voice/chi r1 5.ogg"
     chi "And she was a total sweetheart! She was shy, and soft-spoken, and you really wanted to encourage her to do her best!"
 
+    voice "voice/Kiyoko_Line_35.ogg"
     tsu "Chihiro also goes for the generically saccharine types. So predictable..."
 
     voice "voice/chi r1 6.ogg"
@@ -398,9 +410,10 @@ label start:
 
     "At least Chihiro is patient. Bless her soul."
 
-    voice "voice/chi r1 7.ogg"
+    voice "voice/Kiyoko_Line_36  .ogg"
     tsu "Well, there's a lot of {i}dere{/i} archetypes. It comes from 'deredere'. Or lovey-dovey."
 
+    #voice: missing line
     tsu "The {i}dan{/i} comes from 'danmari'. Which means to shut up or stay calm."
 
     voice "voice/chi r1 8.ogg"
@@ -409,6 +422,7 @@ label start:
     voice "voice/pro r1 4.ogg"
     pro "...Huh. That's neat."
 
+    voice "voice/Kiyoko_Line_37.ogg"
     tsu "...You seriously didn't know this? We're at a Japanese school..."
 
     voice "voice/pro r1 5.ogg"
@@ -425,30 +439,38 @@ label start:
 
     #PRESENTATION CUT
 
-    tsu "Pfft. Netsu's way better. She doesn't beat around the bush and waste time."
+    voice "voice/Kiyoko_Line_38.ogg"
+    tsu "Pfft. Netsu is way better. She doesn't beat around the bush and waste time."
 
     voice "voice/chi r1 11.ogg"
     chi "I-it's not a waste of time! It's rewarding emotional investment..."
 
+    voice "voice/Kiyoko_Line_39.ogg"
     tsu "They're always the same pandering otaku fantasies! I like a more exciting flavour!"
 
     voice "voice/chi r1 12.ogg"
     chi "Hum. I suppose you'd be the type to mirror Netsu's hot intensity."
 
+    voice "voice/Kiyoko_Line_40.ogg"
     tsu "Hmph! Intense is right! I don't half-ass anything, and neither does Netsu!"
+
+    voice "voice/Kiyoko_Line_41.ogg"
     tsu "Netsu had her head on straight! Any time the idiot lead got up in his headspace, it was Netsu who smacked him straight!"
 
     voice "voice/chi r1 13.ogg"
     chi "Mmhm. She could be a sweetheart when she wanted to be, between all of the disciplining..."
 
+    voice "voice/Kiyoko_Line_42.ogg"
     tsu "She gets things done!"
 
     voice "voice/chi r1 14.ogg"
     chi "...she's a total tsundere."
 
+    voice "voice/Kiyoko_Line_43.ogg"
     tsu "W-well, I... I {i}guess{/i}, in the technical sense, she is..."
 
     #muttering
+    voice "voice/Kiyoko_Line_44.ogg"
     tsu "...kind of a basic taste to have though..."
 
     voice "voice/pro r1 6.ogg"
@@ -457,7 +479,10 @@ label start:
     voice "voice/chi r1 15.ogg"
     chi "Mmhm! Exactly!~"
 
+    #voice: retake needed
     tsu "It's in the name. {i}Tsun{/i} comes from 'tsuntsun', meaning 'irritable or aloof'..."
+
+    voice "voice/Kiyoko_Line_46.ogg"
     tsu "...and you already know what the 'dere' comes from. Don't tell me you forgot already..."
 
     voice "voice/pro r1 7.ogg"
@@ -466,17 +491,20 @@ label start:
     voice "voice/pro r1 8.ogg"
     pro "I didn't think I'd end up learning stuff here. Thanks Kiyoko!"
 
+    voice "voice/Kiyoko_Line_47.ogg"
     tsu "W-well, if... if you're at Anime Club, you might as well get a lesson in actual Japanese."
 
     voice "voice/chi r1 16.ogg"
     chi "It's not like you like him or anything, riiiight?~"
 
+    voice "voice/Kiyoko_Line_48.ogg"
     tsu "I-it's not like I... {i}q, quiet, you! Stupid!{/i}"
 
     "So Kiyoko's into tsunderes? Maybe she likes self-inserts..."
 
     #PRESENTATION CUT
 
+    voice "voice/Kiyoko_Line_49.ogg"
     tsu "Well? What do you think?"
 
     voice "voice/pro r1 9.ogg"
@@ -488,6 +516,7 @@ label start:
     voice "voice/pro r1 10.ogg"
     pro "I didn't realize I was actually supposed to vote, uh..."
 
+    voice "voice/Kiyoko_Line_50.ogg"
     tsu "It's the point of this entire debate, stupid!"
 
     voice "voice/pro r1 11.ogg"
@@ -508,6 +537,7 @@ label start:
     voice "voice/chi r1 19.ogg"
     chi "Well... I guess any reason to vote is fine. Voting for your beliefs serves as the foundation of a free democracy after all!"
 
+    voice "voice/Kiyoko_Line_51.ogg"
     tsu "And you {i}better{/i} not vote for the option that you think one of us will like more! This isn't some trashy VN!"
 
     voice "voice/pro r1 15.ogg"
@@ -518,11 +548,14 @@ label start:
     label poll1Chi:
         voice "voice/chi r1end 1.ogg"
         chi "Woo! I argued the thingie better!"
+
+        voice "voice/Kiyoko_Line_52.ogg"
         tsu "Tch. This isn't even my final form."
         python:
             pollScore["chi"] = pollScore["chi"] + 1
         jump endpoll1
     label poll1Tsu:
+        voice "voice/Kiyoko_Line_53.ogg"
         tsu "Alright! President Kiyoko draws first blood!"
         voice "voice/chi r1end 2.ogg"
         chi "Th-this isn't {i}that{/i} kind of contest...!"
@@ -538,11 +571,13 @@ label start:
     voice "voice/chi r2 1.ogg"
     chi "Okay, okay, we're gonna change gears!"
 
+    voice "voice/Kiyoko_Line_54.ogg"
     tsu "Eh? But this is my game, you can't just-"
 
     voice "voice/chi r2 a.ogg"
     chi "We should talk about husbandos! Can we?"
 
+    voice "voice/Kiyoko_Line_55.ogg"
     tsu "...Huh. Not a bad idea, surprisingly."
 
     voice "voice/pro r2 1.ogg"
@@ -551,6 +586,7 @@ label start:
     voice "voice/chi r2 2.ogg"
     chi "We talk about whoever we like! They don't have to be cute girls!"
 
+    voice "voice/Kiyoko_Line_56.ogg"
     tsu "Yeah, it's 2018. Get with the times."
 
     voice "voice/pro r2 2.ogg"
@@ -559,6 +595,7 @@ label start:
     voice "voice/pro r2 3.ogg"
     pro "So {i}Ramen Saga{/i} has husbandos too?"
 
+    voice "voice/Kiyoko_Line_57.ogg"
     tsu "It was originally released as a best-selling visual novel. They went overboard with the routes they tacked on..."
 
     voice "voice/chi r2 3.ogg"
@@ -567,11 +604,13 @@ label start:
     voice "voice/pro r2 4.ogg"
     pro "Of course. Harem endings."
 
+    #voice: retake needed
     tsu "As I recall, the adaptation took, ah, creative liberties... but Kazama and Hiro made the jump to the small screen remarkably well."
 
     voice "voice/chi r2 4.ogg"
     chi "Hiro's adorable! He has the best comedy scenes."
 
+    voice "voice/Kiyoko_Line_59.ogg"
     tsu "Urgh, really? He looks more like the parody version of a bishonen lead..."
 
     voice "voice/chi r2 5.ogg"
@@ -580,6 +619,7 @@ label start:
     voice "voice/chi r2 6.ogg"
     chi "And he has the best design too!"
 
+    voice "voice/Kiyoko_Line_60.ogg"
     tsu "Heh. I figured someone like you would have such juvenile tastes."
 
     voice "voice/chi r2 7.ogg"
@@ -590,14 +630,22 @@ label start:
 
     #PRESENTATION CUT
 
+    voice "voice/Kiyoko_Line_61.ogg"
     tsu "Well, thank you for sharing that. It's pedestrian, but we're entitled to our opinions."
+
+    voice "voice/Kiyoko_Line_62.ogg"
     tsu "I should remind you however, {i}my{/i} tastes are a lot more cultured and refined."
 
     voice "voice/chi r2 8.ogg"
     chi "Oh don't tell me you like Kazama..."
 
+    voice "voice/Kiyoko_Line_63.ogg"
     tsu "He's good for drama! Without him, there wouldn't be anything to talk about!"
+
+    voice "voice/Kiyoko_Line_64.ogg"
     tsu "He's cold, calculating, willing to do whatever it takes to succeed..."
+
+    voice "voice/Kiyoko_Line_65.ogg"
     tsu "And that intimidating look he gives Rama-sama when they first met... oooh, it gives me the tingles!~"
 
     "Calm down, Kiyoko, this is a classroom setting..."
@@ -608,6 +656,7 @@ label start:
     voice "voice/chi r2 10.ogg"
     chi "...and he put too much salt in Rama-sama's broth!"
 
+    #voice: needs retake
     tsu "It was a power play!"
 
     voice "voice/chi r2 11.ogg"
@@ -619,13 +668,16 @@ label start:
     voice "voice/chi r2 12.ogg"
     chi "I-I doubt there is such a thing... either or, Kazama's a jerk!"
 
+    voice "voice/Kiyoko_Line_67.ogg"
     tsu "But he does it all in such a cool, dashing way!~"
 
     voice "voice/chi r2 13.ogg"
     chi "B-but wouldn't you rather have a charming, friendly guy who cares for your wellbeing?"
 
+    voice "voice/Kiyoko_Line_68.ogg"
     tsu "And I suppose you'd want to hold hands and blush too? {i}Please.{/i}"
 
+    voice "voice/Kiyoko_Line_69.ogg"
     tsu "I'm a third-year, I'm getting too old to indulge in fluffy nonsense like that!"
 
     "Kiyoko was utterly smitten by bad boys, it seemed. Not exactly an uncommon opinion."
@@ -636,11 +688,14 @@ label start:
     label poll2Chi:
         voice "voice/chi r2end 1.ogg"
         chi "Score one for the cute guys!"
+
+        voice "voice/Kiyoko_Line_70.ogg"
         tsu "What's that supposed to mean? They're {i}both cute{/i}, stupid."
         python:
             pollScore["chi"] = pollScore["chi"] + 1
         jump endpoll2
     label poll2Tsu:
+        voice "voice/Kiyoko_Line_71.ogg"
         tsu "Heheh! I didn't expect anything less!"
 
         voice "voice/chi r2end 2.ogg"
@@ -673,7 +728,10 @@ label start:
         voice "voice/chi r3 1.ogg"
         chi "Okay! It's time for the third and final round!"
 
+        voice "voice/Kiyoko_Line_72.ogg"
         tsu "Mrgrgr... can't believe it's still tied up. I should've closed this off by now."
+
+        voice "voice/Kiyoko_Line_73.ogg"
         tsu "Nuts to that! I got the final round!"
 
         voice "voice/pro r3 2.ogg"
@@ -682,6 +740,7 @@ label start:
         voice "voice/chi r3 2.ogg"
         chi "Anime Club is serious business!"
 
+        voice "voice/Kiyoko_Line_74.ogg"
         tsu "Yeah, super serious! Try and keep up!"
 
         voice "voice/pro r3 3.ogg"
@@ -701,6 +760,7 @@ label start:
         voice "voice/pro r3 a.ogg"
         pro "Well, yeah, we are, but-"
 
+        voice "voice/Kiyoko_Line_75.ogg"
         tsu "The people running this prepared three rounds of this stuff, so we gotta go through with all of them. Them's the rules."
 
         voice "voice/pro r3 5.ogg"
@@ -723,6 +783,7 @@ label start:
     voice "voice/pro r3 8.ogg"
     pro "This isn't a harem anime, right?"
 
+    voice "voice/Kiyoko_Line_76.ogg"
     tsu "It's a very personal story about finding strength through the support of others!"
 
     voice "voice/pro r3 9.ogg"
@@ -745,6 +806,7 @@ label start:
     voice "voice/chi r3 10.ogg"
     chi "And you never really get a good read on her until the big reveal when you find out she's an-"
 
+    voice "voice/Kiyoko_Line_77.ogg"
     tsu "Chihiro! Spoilers!"
 
     voice "voice/chi r3 11.ogg"
@@ -772,12 +834,16 @@ label start:
 
     #PRESENTATION CUT
 
+    voice "voice/Kiyoko_Line_78.ogg"
     tsu "Of course, Chihiro has always gravitated to those with otherworldly knowledge and insight!"
+
+    voice "voice/Kiyoko_Line_79.ogg"
     tsu "That's why she sought me out after all! Hohoho!~"
 
     voice "voice/chi r3 16.ogg"
     chi "...Mm... I don't get that vibe from you though."
 
+    voice "voice/Kiyoko_Line_80.ogg"
     tsu "Eh!? Are you calling me stupid!?"
 
     voice "voice/chi r3 17.ogg"
@@ -790,23 +856,31 @@ label start:
     voice "voice/chi r3 18.ogg"
     chi "Don't incense her, that's not what I meant!"
 
-    tsu "Anyway, Kotone is not much more than a token plot-thread. Rena's way better."
+    voice "voice/Kiyoko_Line_81.ogg"
+    tsu "Anyway, Kotone's not much more than a token plot-thread. Rena's way better."
 
     voice "voice/pro r3 14.ogg"
     pro "Huh. She didn’t strike me as your preference."
 
+    voice "voice/Kiyoko_Line_82.ogg"
     tsu "....I can like gentle characters too..."
 
     voice "voice/pro r3 15.ogg"
     pro "Huh?"
 
+    voice "voice/Kiyoko_Line_83.ogg"
     tsu "I mean, she's reliable, and kind, and always supports Rama-sama! Because they're best friends."
+
+    voice "voice/Kiyoko_Line_84.ogg"
     tsu "It's a familiar relationship. Cozy, nice. I like it!"
-    tsu "The pacing doesn't always have to be operating at one hundred percent, y'know."
+
+    voice "voice/Kiyoko_Line_85.ogg"
+    tsu "The pacing doesn't always have to be operating at a hundred percent, y'know."
 
     voice "voice/chi r3 19.ogg"
     chi "She says as she shames the club for minding their studies..."
 
+    voice "voice/Kiyoko_Line_86.ogg"
     tsu "This isn't an anime, Chihiro!"
 
     "So Kiyoko liked the childhood, best friend character? That's still a pretty unexpected choice, coming from her, but I can kind of see it."
@@ -819,34 +893,36 @@ label start:
     label poll3Chi:
         voice "voice/chi r3end 1.ogg"
         chi "Yay! Mystery solved!~"
+
+        voice "voice/Kiyoko_Line_87.ogg"
         tsu "Hmph. Call it a curious case of crummy taste..."
 
-        voice "voice/pro r3win.ogg"
-        pro "So, uh, that's it? Then I guess the winner is..."
         python:
             pollScore["chi"] = pollScore["chi"] + 1
         jump endpoll3
     label poll3Tsu:
+        voice "voice/Kiyoko_Line_88.ogg"
         tsu "Well, it was obvious that the power of love would win out in the end!~"
 
         voice "voice/chi r3end 2.ogg"
         chi "But they aren't even dating in the anime..."
 
-        voice "voice/pro r3win.ogg"
-        pro "So, uh, that's it? Then I guess the winner is..."
         python:
             pollScore["tsu"] = pollScore["tsu"] + 1
         jump endpoll3
 
     label endpoll3:
-
+        voice "voice/pro r3win.ogg"
+        pro "So, uh, that's it? Then I guess the winner is..."
 
 
     ##################################### SPLIT CODE IF NEEDED HERE ####################################################
 
     ### ROUTE SELECT: TSUNDERE ROUTE ###
     label routeTsu:
+        show classroomevening zorder 1 with dissolve
 
+        voice "voice/Kiyoko_Line_89.ogg"
         tsu "Ohoho!~ Like there was ever any doubt!"
 
         voice "voice/chi tsun 1.ogg"
@@ -855,6 +931,7 @@ label start:
         voice "voice/pro tsun 1.ogg"
         pro "It sounded like she had something caught in her windpipe."
 
+        #voice: needs retake
         tsu "Ah, those glowering expressions are {i}such{/i} a killjoy. I'm a gracious winner!"
 
         voice "voice/chi tsun 2.ogg"
@@ -863,11 +940,13 @@ label start:
         voice "voice/pro tsun 2.ogg"
         pro "Who knew arguing about your favourite characters could be such an {i}intimate{/i} bonding experience..."
 
+        voice "voice/Kiyoko_Line_91.ogg"
         tsu "Y-you don't have to be so sarcastic about it!"
 
         voice "voice/pro tsun 3.ogg"
         pro "So, uh, what do we do now? Anime Club's almost over by now, right?"
 
+        voice "voice/Kiyoko_Line_92.ogg"
         tsu "Mm, true. I could spare some time to sort out your paperwork... what will you do, Chihiro?"
 
         voice "voice/chi tsun 3.ogg"
@@ -891,32 +970,45 @@ label start:
         voice "voice/pro tsun 5.ogg"
         pro "...Well, uh... was I supposed to bring anything?"
 
+        voice "voice/Kiyoko_Line_93.ogg"
         tsu "N-no, no, not really. I just need you to go over our constitution real quick."
+
+        voice "voice/Kiyoko_Line_94.ogg"
         tsu "...Nnngh. Chihiro writes too small, I can barely make this out."
 
         "Reaching into her knapsack, Kiyoko pulled out a small pair of reading glasses, going over the letter-print."
+
+        voice "voice/Kiyoko_Line_95.ogg"
         tsu "You must attend at least one meeting a month. You must engage with tasteful, school-appropriate material. You are eligible to one viewing party recommendation..."
 
         voice "voice/pro tsun 6.ogg"
         pro "...Huh."
 
-        tsu "What? This is simple stuff. Don't tell me I’ve lost you already."
+        voice "voice/Kiyoko_Line_96.ogg"
+        tsu "What? This stuff is simple. Don't tell me I’ve lost you already."
 
         voice "voice/pro tsun 7.ogg"
         pro "No, I just... didn't expect you to have a pair of reading glasses on hand."
 
+        voice "voice/Kiyoko_Line_97.ogg"
         tsu "...I-it's not a big deal. I have troubles with fine print. I'm a little short-sighted."
+
+        voice "voice/Kiyoko_Line_98.ogg"
         tsu "B-but there's nothing wrong with that! I'm flawless otherwise!"
 
         voice "voice/pro tsun 8.ogg"
         pro "They're kinda cute, though..."
 
+        voice "voice/Kiyoko_Line_99.ogg"
         tsu "'Cute'?? They're for vision-correction! I've no used for a, a cloying fashion accessory!"
 
         voice "voice/pro tsun 9.ogg"
         pro "It's not an insult or anything! Chihiro wears glasses too, and everyone thinks she's cute!"
 
+        voice "voice/Kiyoko_Line_100.ogg"
         tsu "...Nnnn..."
+
+        voice "voice/Kiyoko_Line_101.ogg"
         tsu "She's just cute in the pedestrian way though. The normies go for it..."
 
         "She groaned aloud, putting down the pamphlet."
@@ -924,23 +1016,31 @@ label start:
 
         #PRESENTATION CUT
 
+        voice "voice/Kiyoko_Line_102.ogg"
         tsu "I don't wanna wear my glasses too much around school. I get by fine as it is."
+
+        voice "voice/Kiyoko_Line_103.ogg"
         tsu "Besides, everyone looks at me different when they do. I can't command respect like that!"
 
         voice "voice/pro tsun 10.ogg"
         pro "Are you sure you want to command respect?"
 
+        voice "voice/Kiyoko_Line_104.ogg"
         tsu "Wh, what else would I want??"
 
         voice "voice/pro tsun 11.ogg"
         pro "Based on the way you were blushing, I'd think you'd be happy if someone called you a cutie like Chihiro."
 
+        voice "voice/Kiyoko_Line_105.ogg"
         tsu "Th-that's baseless conjecture!!"
+
+        voice "voice/Kiyoko_Line_106.ogg"
         tsu "I, eh, ahem... c-can we just get through your paperwork?"
 
         voice "voice/pro tsun 12.ogg"
         pro "I didn't bring a pen though-"
 
+        voice "voice/Kiyoko_Line_107.ogg"
         tsu "USE MINE!"
 
         voice "voice/pro tsun 13.ogg"
@@ -954,6 +1054,8 @@ label start:
         jump gameEnd
 
     label routeChi:
+
+        show classroomevening zorder 1 with dissolve
         voice "voice/chi bf 1.ogg"
         chi "Me! Oh, I don't win very often! How exciting!"
 
@@ -963,6 +1065,7 @@ label start:
         voice "voice/chi bf 3.ogg"
         chi "...OH! And all my friends at the academy!~"
 
+        voice "voice/Kiyoko_Line_108.ogg"
         tsu "Well. She seems pleased with herself."
 
         voice "voice/pro bf 1.ogg"
@@ -974,7 +1077,8 @@ label start:
         voice "voice/chi bf 5.ogg"
         chi "I had fun! This was a great idea, Kiyoko!~"
 
-        tsu "...Eh, eheh, you, uh... you don't have to flatter me..."
+        voice "voice/Kiyoko_Line_109.ogg"
+        tsu "...Eh? Eheh, you, uh... you don't have to flatter me..."
 
         voice "voice/chi bf 6.ogg"
         chi "How about it? You wanna do it again sometime??"
@@ -982,6 +1086,7 @@ label start:
         voice "voice/pro bf 2.ogg"
         pro "Might be fun, but... Anime Club's over by now, right?"
 
+        voice "voice/Kiyoko_Line_110.ogg"
         tsu "Ah, technically? We reconvene every Tuesday and Thursday."
 
         voice "voice/pro bf 3.ogg"
@@ -993,12 +1098,13 @@ label start:
         voice "voice/pro bf 4.ogg"
         pro "It's tradition at this point. What are you gonna do, Kiyoko?"
 
-
-        tsu "Well, our secretary didn't make it out so... I'll have to jot the meeting notes myself."
+        voice "voice/Kiyoko_Line_111.ogg"
+        tsu "Well, our secretary didn't make it so... I'll have to jot the meeting notes myself."
 
         voice "voice/chi bf 8.ogg"
         chi "Be sure to note who {i}actually{/i} won our little contest, okayyy?~"
 
+        voice "voice/Kiyoko_Line_112.ogg"
         tsu "I-I-I wouldn't dream of sullying our club's name with lies and slander! How dare you??"
 
         voice "voice/pro bf 5.ogg"
@@ -1007,7 +1113,7 @@ label start:
         voice "voice/chi bf 9.ogg"
         chi "Okay! I need to hit my locker first!~"
 
-        scene hallway
+        scene hallwayevening with dissolve
 
         "Heading over to Chihiro's locker, she gathers her things in short order, readying for our regular commute home."
 

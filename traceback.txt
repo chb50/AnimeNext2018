@@ -1,15 +1,15 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 144, in script
-    
-IOError: Couldn't find file 'voice/Kiyoko_Line_7.ogg'.
+  File "game/script.rpy", line 411, in script
+    tsu "Well, there's a lot of {i}dere{/i} archetypes. It comes from 'deredere'. Or lovey-dovey."
+IOError: Couldn't find file 'voice/chi r1 7.ogg'.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 144, in script
-    
+  File "game/script.rpy", line 411, in script
+    tsu "Well, there's a lot of {i}dere{/i} archetypes. It comes from 'deredere'. Or lovey-dovey."
   File "E:\renpy-6.99.12.4-sdk\renpy\ast.py", line 652, in execute
     renpy.exports.say(who, what, interact=self.interact, *args, **kwargs)
   File "E:\renpy-6.99.12.4-sdk\renpy\exports.py", line 1180, in say
@@ -36,9 +36,9 @@ Full traceback:
     rv = renpy.loader.load(fn)
   File "E:\renpy-6.99.12.4-sdk\renpy\loader.py", line 555, in load
     raise IOError("Couldn't find file '%s'." % name)
-IOError: Couldn't find file 'voice/Kiyoko_Line_7.ogg'.
+IOError: Couldn't find file 'voice/chi r1 7.ogg'.
 
 Windows-8-6.2.9200
 Ren'Py 6.99.14.3.3347
 AnimeNext2018 1.0
-Thu May 31 04:38:23 2018
+Thu May 31 20:20:54 2018
