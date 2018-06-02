@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 19: expected statement.
-    config.auto_voice = "voice/{id}.ogg"
-                      ^
+File "game/script.rpy", line 1337: end of line expected.
+    show hallwayevening with dissolve behind chi, tsu
+                                      ^
 
-Ren'Py Version: Ren'Py 6.99.14.3.3347
-Thu May 31 04:24:10 2018
+Ren'Py Version: Ren'Py 7.0.0.196
+Sat Jun 02 03:13:16 2018

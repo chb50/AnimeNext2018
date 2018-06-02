@@ -1,18 +1,24 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 411, in script
-    tsu "Well, there's a lot of {i}dere{/i} archetypes. It comes from 'deredere'. Or lovey-dovey."
-IOError: Couldn't find file 'voice/chi r1 7.ogg'.
+  File "game/script.rpy", line 6, in script call
+    "School began as any other school day did. It also ended in more or less the same manner."
+  File "renpy/common/00console.rpy", line 765, in script call
+    python in _console:
+  File "game/script.rpy", line 1449, in script
+IOError: Couldn't find file 'voice/chi bf 21.ogg'.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 411, in script
-    tsu "Well, there's a lot of {i}dere{/i} archetypes. It comes from 'deredere'. Or lovey-dovey."
+  File "game/script.rpy", line 6, in script call
+    "School began as any other school day did. It also ended in more or less the same manner."
+  File "renpy/common/00console.rpy", line 765, in script call
+    python in _console:
+  File "game/script.rpy", line 1449, in script
   File "E:\renpy-6.99.12.4-sdk\renpy\ast.py", line 652, in execute
     renpy.exports.say(who, what, interact=self.interact, *args, **kwargs)
-  File "E:\renpy-6.99.12.4-sdk\renpy\exports.py", line 1180, in say
+  File "E:\renpy-6.99.12.4-sdk\renpy\exports.py", line 1199, in say
     who(what, *args, **kwargs)
   File "E:\renpy-6.99.12.4-sdk\renpy\character.py", line 1016, in __call__
     self.do_display(who, what, cb_args=self.cb_args, **display_args)
@@ -22,23 +28,23 @@ Full traceback:
     rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
   File "E:\renpy-6.99.12.4-sdk\renpy\ui.py", line 287, in interact
     rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-  File "E:\renpy-6.99.12.4-sdk\renpy\display\core.py", line 2635, in interact
+  File "E:\renpy-6.99.12.4-sdk\renpy\display\core.py", line 2649, in interact
     repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, **kwargs)
-  File "E:\renpy-6.99.12.4-sdk\renpy\display\core.py", line 3304, in interact_core
+  File "E:\renpy-6.99.12.4-sdk\renpy\display\core.py", line 3318, in interact_core
     renpy.audio.audio.periodic()
-  File "E:\renpy-6.99.12.4-sdk\renpy\audio\audio.py", line 976, in periodic_thread_main
+  File "E:\renpy-6.99.12.4-sdk\renpy\audio\audio.py", line 988, in periodic_thread_main
     periodic_pass()
-  File "E:\renpy-6.99.12.4-sdk\renpy\audio\audio.py", line 920, in periodic_pass
+  File "E:\renpy-6.99.12.4-sdk\renpy\audio\audio.py", line 932, in periodic_pass
     c.periodic()
-  File "E:\renpy-6.99.12.4-sdk\renpy\audio\audio.py", line 409, in periodic
+  File "E:\renpy-6.99.12.4-sdk\renpy\audio\audio.py", line 416, in periodic
     topf = load(self.file_prefix + filename + self.file_suffix)
   File "E:\renpy-6.99.12.4-sdk\renpy\audio\audio.py", line 69, in load
     rv = renpy.loader.load(fn)
   File "E:\renpy-6.99.12.4-sdk\renpy\loader.py", line 555, in load
     raise IOError("Couldn't find file '%s'." % name)
-IOError: Couldn't find file 'voice/chi r1 7.ogg'.
+IOError: Couldn't find file 'voice/chi bf 21.ogg'.
 
 Windows-8-6.2.9200
-Ren'Py 6.99.14.3.3347
+Ren'Py 7.0.0.196
 AnimeNext2018 1.0
-Thu May 31 20:20:54 2018
+Sat Jun 02 03:42:22 2018
