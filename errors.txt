@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 1337: end of line expected.
-    show hallwayevening with dissolve behind chi, tsu
-                                      ^
+File "game/gui.rpy", line 206: expected statement.
+    efine gui.navigation_button_width = 500
+             ^
 
 Ren'Py Version: Ren'Py 7.0.0.196
-Sat Jun 02 03:13:16 2018
+Mon Jun 04 01:19:42 2018

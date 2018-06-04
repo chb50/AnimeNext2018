@@ -1,0 +1,645 @@
+devlog.txt
+dynamicimages.rpy
+dynamicimages.rpyc
+gui.rpy
+gui.rpy.1.bak
+gui.rpyc
+init.rpy
+init.rpyc
+options.rpy
+options.rpyc
+screens.rpy
+screens.rpy.1.bak
+screens.rpyc
+script.rpy
+script.rpyc
+bgs\classroom evening.png
+bgs\classroom.png
+bgs\hallway school evening.png
+bgs\hallway school.png
+bgs\school.png
+cache\bytecode.rpyb
+cache\pyanalysis.rpyb
+cache\screens.rpyb
+cgs\CHIHIRO_1_16x9.png
+cgs\CHIHIRO_FULL.png
+gui\AnimeNEXT-HIDIVE-logo.png
+gui\Seagull_Wine.ttf
+gui\Stanberry.ttf
+gui\frame.png
+gui\frame.png.1.bak
+gui\game_menu.png
+gui\main_menu.png
+gui\monofonto.ttf
+gui\namebox.png
+gui\namebox.png.1.bak
+gui\notify.png
+gui\notify.png.1.bak
+gui\nvl.png
+gui\nvl.png.1.bak
+gui\skip.png
+gui\skip.png.1.bak
+gui\textbox.png
+gui\textbox.png.1.bak
+gui\window_icon.png
+gui\bar\bottom.png
+gui\bar\bottom.png.1.bak
+gui\bar\left.png
+gui\bar\left.png.1.bak
+gui\bar\right.png
+gui\bar\right.png.1.bak
+gui\bar\top.png
+gui\bar\top.png.1.bak
+gui\button\check_foreground.png
+gui\button\check_foreground.png.1.bak
+gui\button\check_selected_foreground.png
+gui\button\check_selected_foreground.png.1.bak
+gui\button\choice_hover_background.png
+gui\button\choice_hover_background.png.1.bak
+gui\button\choice_idle_background.png
+gui\button\choice_idle_background.png.1.bak
+gui\button\hover_background.png
+gui\button\hover_background.png.1.bak
+gui\button\idle_background.png
+gui\button\idle_background.png.1.bak
+gui\button\quick_hover_background.png
+gui\button\quick_hover_background.png.1.bak
+gui\button\quick_idle_background.png
+gui\button\quick_idle_background.png.1.bak
+gui\button\radio_foreground.png
+gui\button\radio_foreground.png.1.bak
+gui\button\radio_selected_foreground.png
+gui\button\radio_selected_foreground.png.1.bak
+gui\button\slot_hover_background.png
+gui\button\slot_hover_background.png.1.bak
+gui\button\slot_idle_background.png
+gui\button\slot_idle_background.png.1.bak
+gui\overlay\confirm.png
+gui\overlay\confirm.png.1.bak
+gui\overlay\game_menu.png
+gui\overlay\game_menu.png.1.bak
+gui\overlay\main_menu.png
+gui\overlay\main_menu.png.1.bak
+gui\phone\nvl.png
+gui\phone\nvl.png.1.bak
+gui\phone\textbox.png
+gui\phone\textbox.png.1.bak
+gui\phone\bar\bottom.png
+gui\phone\bar\bottom.png.1.bak
+gui\phone\bar\left.png
+gui\phone\bar\left.png.1.bak
+gui\phone\bar\right.png
+gui\phone\bar\right.png.1.bak
+gui\phone\bar\top.png
+gui\phone\bar\top.png.1.bak
+gui\phone\button\check_foreground.png
+gui\phone\button\check_foreground.png.1.bak
+gui\phone\button\check_selected_foreground.png
+gui\phone\button\check_selected_foreground.png.1.bak
+gui\phone\button\hover_background.png
+gui\phone\button\hover_background.png.1.bak
+gui\phone\button\idle_background.png
+gui\phone\button\idle_background.png.1.bak
+gui\phone\button\radio_foreground.png
+gui\phone\button\radio_foreground.png.1.bak
+gui\phone\button\radio_selected_foreground.png
+gui\phone\button\radio_selected_foreground.png.1.bak
+gui\phone\button\slot_hover_background.png
+gui\phone\button\slot_hover_background.png.1.bak
+gui\phone\button\slot_idle_background.png
+gui\phone\button\slot_idle_background.png.1.bak
+gui\phone\overlay\game_menu.png
+gui\phone\overlay\game_menu.png.1.bak
+gui\phone\overlay\main_menu.png
+gui\phone\overlay\main_menu.png.1.bak
+gui\phone\scrollbar\horizontal_hover_bar.png
+gui\phone\scrollbar\horizontal_hover_bar.png.1.bak
+gui\phone\scrollbar\horizontal_hover_thumb.png
+gui\phone\scrollbar\horizontal_hover_thumb.png.1.bak
+gui\phone\scrollbar\horizontal_idle_bar.png
+gui\phone\scrollbar\horizontal_idle_bar.png.1.bak
+gui\phone\scrollbar\horizontal_idle_thumb.png
+gui\phone\scrollbar\horizontal_idle_thumb.png.1.bak
+gui\phone\scrollbar\vertical_hover_bar.png
+gui\phone\scrollbar\vertical_hover_bar.png.1.bak
+gui\phone\scrollbar\vertical_hover_thumb.png
+gui\phone\scrollbar\vertical_hover_thumb.png.1.bak
+gui\phone\scrollbar\vertical_idle_bar.png
+gui\phone\scrollbar\vertical_idle_bar.png.1.bak
+gui\phone\scrollbar\vertical_idle_thumb.png
+gui\phone\scrollbar\vertical_idle_thumb.png.1.bak
+gui\phone\slider\horizontal_hover_bar.png
+gui\phone\slider\horizontal_hover_bar.png.1.bak
+gui\phone\slider\horizontal_hover_thumb.png
+gui\phone\slider\horizontal_hover_thumb.png.1.bak
+gui\phone\slider\horizontal_idle_bar.png
+gui\phone\slider\horizontal_idle_bar.png.1.bak
+gui\phone\slider\horizontal_idle_thumb.png
+gui\phone\slider\horizontal_idle_thumb.png.1.bak
+gui\phone\slider\vertical_hover_bar.png
+gui\phone\slider\vertical_hover_bar.png.1.bak
+gui\phone\slider\vertical_hover_thumb.png
+gui\phone\slider\vertical_hover_thumb.png.1.bak
+gui\phone\slider\vertical_idle_bar.png
+gui\phone\slider\vertical_idle_bar.png.1.bak
+gui\phone\slider\vertical_idle_thumb.png
+gui\phone\slider\vertical_idle_thumb.png.1.bak
+gui\scrollbar\horizontal_hover_bar.png
+gui\scrollbar\horizontal_hover_bar.png.1.bak
+gui\scrollbar\horizontal_hover_thumb.png
+gui\scrollbar\horizontal_hover_thumb.png.1.bak
+gui\scrollbar\horizontal_idle_bar.png
+gui\scrollbar\horizontal_idle_bar.png.1.bak
+gui\scrollbar\horizontal_idle_thumb.png
+gui\scrollbar\horizontal_idle_thumb.png.1.bak
+gui\scrollbar\vertical_hover_bar.png
+gui\scrollbar\vertical_hover_bar.png.1.bak
+gui\scrollbar\vertical_hover_thumb.png
+gui\scrollbar\vertical_hover_thumb.png.1.bak
+gui\scrollbar\vertical_idle_bar.png
+gui\scrollbar\vertical_idle_bar.png.1.bak
+gui\scrollbar\vertical_idle_thumb.png
+gui\scrollbar\vertical_idle_thumb.png.1.bak
+gui\slider\horizontal_hover_bar.png
+gui\slider\horizontal_hover_bar.png.1.bak
+gui\slider\horizontal_hover_thumb.png
+gui\slider\horizontal_hover_thumb.png.1.bak
+gui\slider\horizontal_idle_bar.png
+gui\slider\horizontal_idle_bar.png.1.bak
+gui\slider\horizontal_idle_thumb.png
+gui\slider\horizontal_idle_thumb.png.1.bak
+gui\slider\vertical_hover_bar.png
+gui\slider\vertical_hover_bar.png.1.bak
+gui\slider\vertical_hover_thumb.png
+gui\slider\vertical_hover_thumb.png.1.bak
+gui\slider\vertical_idle_bar.png
+gui\slider\vertical_idle_bar.png.1.bak
+gui\slider\vertical_idle_thumb.png
+gui\slider\vertical_idle_thumb.png.1.bak
+saves\_reload-2-LT1.save
+saves\auto-1-LT1.save
+saves\auto-10-LT1.save
+saves\auto-2-LT1.save
+saves\auto-3-LT1.save
+saves\auto-4-LT1.save
+saves\auto-5-LT1.save
+saves\auto-6-LT1.save
+saves\auto-7-LT1.save
+saves\auto-8-LT1.save
+saves\auto-9-LT1.save
+saves\navigation.json
+saves\persistent
+sprites\glasses.png
+sprites\chi\base.png
+sprites\chi\brow default.png
+sprites\chi\e angry.png
+sprites\chi\e default.png
+sprites\chi\e sad.png
+sprites\chi\ec angry.png
+sprites\chi\ec default.png
+sprites\chi\ec happy.png
+sprites\chi\ec normal.png
+sprites\chi\ec sad.png
+sprites\chi\ec surprised.png
+sprites\chi\m default.png
+sprites\chi\m smile.png
+sprites\chi\m surprised.png
+sprites\chi\mc default.png
+sprites\chi\mc sad.png
+sprites\tsu\base.png
+sprites\tsu\e angry.png
+sprites\tsu\e default.png
+sprites\tsu\e sad.png
+sprites\tsu\ec angry.png
+sprites\tsu\ec default.png
+sprites\tsu\ec sad.png
+sprites\tsu\m default.png
+sprites\tsu\m happy.png
+sprites\tsu\mc happy.png
+sprites\tsu\mc sad.png
+sprites\tsu\thinking.png
+tl\None\common.rpym
+tl\None\common.rpymc
+ui\textbox.png
+ui\main\background.png
+ui\main\extras_hover.png
+ui\main\extras_idle.png
+ui\main\girls.png
+ui\main\load_hover.png
+ui\main\load_idle.png
+ui\main\logo.png
+ui\main\prefs_hover.png
+ui\main\prefs_idle.png
+ui\main\quit_hover.png
+ui\main\quit_idle.png
+ui\main\satan.png
+ui\main\start_hover.png
+ui\main\start_idle.png
+ui\navigation\background.png
+ui\navigation\load_hover.png
+ui\navigation\load_idle.png
+ui\navigation\load_selected_idle.png
+ui\navigation\prefs_hover.png
+ui\navigation\prefs_idle.png
+ui\navigation\prefs_selected_idle.png
+ui\navigation\quit_hover.png
+ui\navigation\quit_idle.png
+ui\navigation\return_hover.png
+ui\navigation\return_idle.png
+ui\navigation\save_hover.png
+ui\navigation\save_idle.png
+ui\navigation\save_insensitive.png
+ui\navigation\save_selected_idle.png
+ui\navigation\title_hover.png
+ui\navigation\title_idle.png
+ui\navigation\title_insensitive.png
+ui\prefs\bar_empty.png
+ui\prefs\bar_full.png
+ui\prefs\base.png
+ui\prefs\disabled_hover - Copy.png
+ui\prefs\disabled_hover.png
+ui\prefs\disabled_idle - Copy.png
+ui\prefs\disabled_idle.png
+ui\prefs\enabled_hover - Copy.png
+ui\prefs\enabled_hover.png
+ui\prefs\enabled_idle - Copy.png
+ui\prefs\enabled_idle.png
+ui\prefs\fullscreen_hover.png
+ui\prefs\fullscreen_idle.png
+ui\prefs\keepskip_hover.png
+ui\prefs\keepskip_idle.png
+ui\prefs\prefs_titles.png
+ui\prefs\skipall_hover.png
+ui\prefs\skipall_idle.png
+ui\prefs\skipread_hover.png
+ui\prefs\skipread_idle.png
+ui\prefs\stopskip_hover.png
+ui\prefs\stopskip_idle.png
+ui\prefs\windowed_hover.png
+ui\prefs\windowed_idle.png
+ui\saveload\1_hover.png
+ui\saveload\1_idle.png
+ui\saveload\1_selected_idle.png
+ui\saveload\2_hover.png
+ui\saveload\2_idle.png
+ui\saveload\2_selected_idle.png
+ui\saveload\3_hover.png
+ui\saveload\3_idle.png
+ui\saveload\3_selected_idle.png
+ui\saveload\4_hover.png
+ui\saveload\4_idle.png
+ui\saveload\4_selected_idle.png
+ui\saveload\5_hover.png
+ui\saveload\5_idle.png
+ui\saveload\5_selected_idle.png
+ui\saveload\6_hover.png
+ui\saveload\6_idle.png
+ui\saveload\6_selected_idle.png
+ui\saveload\7_hover.png
+ui\saveload\7_idle.png
+ui\saveload\7_selected_idle.png
+ui\saveload\8_hover.png
+ui\saveload\8_idle.png
+ui\saveload\8_selected_idle.png
+ui\saveload\9_hover.png
+ui\saveload\9_idle.png
+ui\saveload\9_selected_idle.png
+ui\saveload\auto_hover.png
+ui\saveload\auto_idle.png
+ui\saveload\auto_selected_idle.png
+ui\saveload\empty.png
+ui\saveload\quick_hover.png
+ui\saveload\quick_idle.png
+ui\saveload\quick_selected_idle.png
+ui\saveload\slot_hover.png
+ui\saveload\slot_idle.png
+ui\yn\background.png
+ui\yn\base_right.png
+ui\yn\message_delete.png
+ui\yn\message_load.png
+ui\yn\message_overwrite.png
+ui\yn\message_quit.png
+ui\yn\message_title.png
+ui\yn\no_hover.png
+ui\yn\no_idle.png
+ui\yn\yes_hover.png
+ui\yn\yes_idle.png
+voice\Kiyoko_Line_1.ogg
+voice\Kiyoko_Line_10.ogg
+voice\Kiyoko_Line_100.ogg
+voice\Kiyoko_Line_101.ogg
+voice\Kiyoko_Line_102.ogg
+voice\Kiyoko_Line_103.ogg
+voice\Kiyoko_Line_104.ogg
+voice\Kiyoko_Line_105.ogg
+voice\Kiyoko_Line_106.ogg
+voice\Kiyoko_Line_107.ogg
+voice\Kiyoko_Line_108.ogg
+voice\Kiyoko_Line_109.ogg
+voice\Kiyoko_Line_11.ogg
+voice\Kiyoko_Line_110.ogg
+voice\Kiyoko_Line_111.ogg
+voice\Kiyoko_Line_112.ogg
+voice\Kiyoko_Line_12.ogg
+voice\Kiyoko_Line_13.ogg
+voice\Kiyoko_Line_14.ogg
+voice\Kiyoko_Line_15.ogg
+voice\Kiyoko_Line_16.ogg
+voice\Kiyoko_Line_17.ogg
+voice\Kiyoko_Line_18.ogg
+voice\Kiyoko_Line_19.ogg
+voice\Kiyoko_Line_2.ogg
+voice\Kiyoko_Line_20.ogg
+voice\Kiyoko_Line_21.ogg
+voice\Kiyoko_Line_22.ogg
+voice\Kiyoko_Line_23.ogg
+voice\Kiyoko_Line_24.ogg
+voice\Kiyoko_Line_25.ogg
+voice\Kiyoko_Line_26.ogg
+voice\Kiyoko_Line_27.ogg
+voice\Kiyoko_Line_28.ogg
+voice\Kiyoko_Line_29.ogg
+voice\Kiyoko_Line_3.ogg
+voice\Kiyoko_Line_30.ogg
+voice\Kiyoko_Line_31.ogg
+voice\Kiyoko_Line_32.ogg
+voice\Kiyoko_Line_33.ogg
+voice\Kiyoko_Line_34.ogg
+voice\Kiyoko_Line_35.ogg
+voice\Kiyoko_Line_36.ogg
+voice\Kiyoko_Line_37.ogg
+voice\Kiyoko_Line_38.ogg
+voice\Kiyoko_Line_39.ogg
+voice\Kiyoko_Line_4.ogg
+voice\Kiyoko_Line_40.ogg
+voice\Kiyoko_Line_41.ogg
+voice\Kiyoko_Line_42.ogg
+voice\Kiyoko_Line_43.ogg
+voice\Kiyoko_Line_44.ogg
+voice\Kiyoko_Line_46.ogg
+voice\Kiyoko_Line_47.ogg
+voice\Kiyoko_Line_48.ogg
+voice\Kiyoko_Line_49.ogg
+voice\Kiyoko_Line_5.ogg
+voice\Kiyoko_Line_50.ogg
+voice\Kiyoko_Line_51.ogg
+voice\Kiyoko_Line_52.ogg
+voice\Kiyoko_Line_53.ogg
+voice\Kiyoko_Line_54.ogg
+voice\Kiyoko_Line_55.ogg
+voice\Kiyoko_Line_56.ogg
+voice\Kiyoko_Line_57.ogg
+voice\Kiyoko_Line_59.ogg
+voice\Kiyoko_Line_6.ogg
+voice\Kiyoko_Line_60.ogg
+voice\Kiyoko_Line_61.ogg
+voice\Kiyoko_Line_62.ogg
+voice\Kiyoko_Line_63.ogg
+voice\Kiyoko_Line_64.ogg
+voice\Kiyoko_Line_65.ogg
+voice\Kiyoko_Line_67.ogg
+voice\Kiyoko_Line_68.ogg
+voice\Kiyoko_Line_69.ogg
+voice\Kiyoko_Line_70.ogg
+voice\Kiyoko_Line_71.ogg
+voice\Kiyoko_Line_72.ogg
+voice\Kiyoko_Line_73.ogg
+voice\Kiyoko_Line_74.ogg
+voice\Kiyoko_Line_75.ogg
+voice\Kiyoko_Line_76.ogg
+voice\Kiyoko_Line_77.ogg
+voice\Kiyoko_Line_78.ogg
+voice\Kiyoko_Line_79.ogg
+voice\Kiyoko_Line_8.ogg
+voice\Kiyoko_Line_80.ogg
+voice\Kiyoko_Line_81.ogg
+voice\Kiyoko_Line_82.ogg
+voice\Kiyoko_Line_83.ogg
+voice\Kiyoko_Line_84.ogg
+voice\Kiyoko_Line_85.ogg
+voice\Kiyoko_Line_86.ogg
+voice\Kiyoko_Line_87.ogg
+voice\Kiyoko_Line_88.ogg
+voice\Kiyoko_Line_89.ogg
+voice\Kiyoko_Line_9.ogg
+voice\Kiyoko_Line_91.ogg
+voice\Kiyoko_Line_92.ogg
+voice\Kiyoko_Line_93.ogg
+voice\Kiyoko_Line_94.ogg
+voice\Kiyoko_Line_95.ogg
+voice\Kiyoko_Line_96.ogg
+voice\Kiyoko_Line_97.ogg
+voice\Kiyoko_Line_98.ogg
+voice\Kiyoko_Line_99.ogg
+voice\chi bf 1.ogg
+voice\chi bf 10.ogg
+voice\chi bf 11.ogg
+voice\chi bf 12.ogg
+voice\chi bf 13.ogg
+voice\chi bf 14.ogg
+voice\chi bf 15.ogg
+voice\chi bf 16.ogg
+voice\chi bf 18.ogg
+voice\chi bf 19.ogg
+voice\chi bf 2.ogg
+voice\chi bf 20.ogg
+voice\chi bf 22.ogg
+voice\chi bf 23.ogg
+voice\chi bf 24.ogg
+voice\chi bf 3.ogg
+voice\chi bf 4.ogg
+voice\chi bf 5.ogg
+voice\chi bf 6.ogg
+voice\chi bf 7.ogg
+voice\chi bf 8.ogg
+voice\chi bf 9.ogg
+voice\chi intro 1.ogg
+voice\chi intro 10.ogg
+voice\chi intro 11.ogg
+voice\chi intro 12.ogg
+voice\chi intro 13.ogg
+voice\chi intro 14.ogg
+voice\chi intro 15.ogg
+voice\chi intro 16.ogg
+voice\chi intro 17.ogg
+voice\chi intro 18.ogg
+voice\chi intro 19.ogg
+voice\chi intro 2.ogg
+voice\chi intro 20.ogg
+voice\chi intro 21.ogg
+voice\chi intro 22.ogg
+voice\chi intro 23.ogg
+voice\chi intro 24.ogg
+voice\chi intro 25.ogg
+voice\chi intro 26.ogg
+voice\chi intro 27.ogg
+voice\chi intro 28.ogg
+voice\chi intro 29.ogg
+voice\chi intro 3.ogg
+voice\chi intro 30.ogg
+voice\chi intro 4.ogg
+voice\chi intro 5.ogg
+voice\chi intro 6.ogg
+voice\chi intro 7.ogg
+voice\chi intro 8.ogg
+voice\chi intro 9.ogg
+voice\chi r1 1.ogg
+voice\chi r1 10.ogg
+voice\chi r1 11.ogg
+voice\chi r1 12.ogg
+voice\chi r1 13.ogg
+voice\chi r1 14.ogg
+voice\chi r1 15.ogg
+voice\chi r1 16.ogg
+voice\chi r1 17.ogg
+voice\chi r1 18.ogg
+voice\chi r1 19.ogg
+voice\chi r1 2.ogg
+voice\chi r1 3.ogg
+voice\chi r1 4.ogg
+voice\chi r1 5.ogg
+voice\chi r1 6.ogg
+voice\chi r1 8.ogg
+voice\chi r1 9.ogg
+voice\chi r1end 1.ogg
+voice\chi r1end 2.ogg
+voice\chi r2 1.ogg
+voice\chi r2 10.ogg
+voice\chi r2 11.ogg
+voice\chi r2 12.ogg
+voice\chi r2 13.ogg
+voice\chi r2 2.ogg
+voice\chi r2 3.ogg
+voice\chi r2 4.ogg
+voice\chi r2 5.ogg
+voice\chi r2 6.ogg
+voice\chi r2 7.ogg
+voice\chi r2 8.ogg
+voice\chi r2 9.ogg
+voice\chi r2 a.ogg
+voice\chi r2end 1.ogg
+voice\chi r2end 2.ogg
+voice\chi r3 1.ogg
+voice\chi r3 10.ogg
+voice\chi r3 11.ogg
+voice\chi r3 12.ogg
+voice\chi r3 13.ogg
+voice\chi r3 14.ogg
+voice\chi r3 15.ogg
+voice\chi r3 16.ogg
+voice\chi r3 17.ogg
+voice\chi r3 18.ogg
+voice\chi r3 19.ogg
+voice\chi r3 2.ogg
+voice\chi r3 3.ogg
+voice\chi r3 4.ogg
+voice\chi r3 5.ogg
+voice\chi r3 6.ogg
+voice\chi r3 7.ogg
+voice\chi r3 8.ogg
+voice\chi r3 9.ogg
+voice\chi r3end 1.ogg
+voice\chi r3end 2.ogg
+voice\chi tsun 1.ogg
+voice\chi tsun 2.ogg
+voice\chi tsun 3.ogg
+voice\chi tsun 4.ogg
+voice\chi tsun 5.ogg
+voice\chi tsun 6.ogg
+voice\kiyoko adaptation.ogg
+voice\kiyoko dan.ogg
+voice\kiyoko plebs.ogg
+voice\kiyoko tsun.ogg
+voice\pro bf 1.ogg
+voice\pro bf 10.ogg
+voice\pro bf 11.ogg
+voice\pro bf 12.ogg
+voice\pro bf 13.ogg
+voice\pro bf 14.ogg
+voice\pro bf 15.ogg
+voice\pro bf 16.ogg
+voice\pro bf 17.ogg
+voice\pro bf 2.ogg
+voice\pro bf 3.ogg
+voice\pro bf 4.ogg
+voice\pro bf 5.ogg
+voice\pro bf 6.ogg
+voice\pro bf 7.ogg
+voice\pro bf 8.ogg
+voice\pro bf 9.ogg
+voice\pro intro 1.ogg
+voice\pro intro 10.ogg
+voice\pro intro 11.ogg
+voice\pro intro 12.ogg
+voice\pro intro 13.ogg
+voice\pro intro 14.ogg
+voice\pro intro 15.ogg
+voice\pro intro 16.ogg
+voice\pro intro 17.ogg
+voice\pro intro 18.ogg
+voice\pro intro 19.ogg
+voice\pro intro 2.ogg
+voice\pro intro 20.ogg
+voice\pro intro 21.ogg
+voice\pro intro 22.ogg
+voice\pro intro 23.ogg
+voice\pro intro 24.ogg
+voice\pro intro 25.ogg
+voice\pro intro 26.ogg
+voice\pro intro 27.ogg
+voice\pro intro 3.ogg
+voice\pro intro 4.ogg
+voice\pro intro 5.ogg
+voice\pro intro 6.ogg
+voice\pro intro 7.ogg
+voice\pro intro 8.ogg
+voice\pro intro 9.ogg
+voice\pro r1 1.ogg
+voice\pro r1 10.ogg
+voice\pro r1 11.ogg
+voice\pro r1 12.ogg
+voice\pro r1 13.ogg
+voice\pro r1 14.ogg
+voice\pro r1 15.ogg
+voice\pro r1 2.ogg
+voice\pro r1 3.ogg
+voice\pro r1 4.ogg
+voice\pro r1 5.ogg
+voice\pro r1 6.ogg
+voice\pro r1 7.ogg
+voice\pro r1 8.ogg
+voice\pro r1 9.ogg
+voice\pro r2 1.ogg
+voice\pro r2 2.ogg
+voice\pro r2 3.ogg
+voice\pro r2 4.ogg
+voice\pro r2 5.ogg
+voice\pro r3 1.ogg
+voice\pro r3 10.ogg
+voice\pro r3 11.ogg
+voice\pro r3 12.ogg
+voice\pro r3 14.ogg
+voice\pro r3 15.ogg
+voice\pro r3 2.ogg
+voice\pro r3 3.ogg
+voice\pro r3 4.ogg
+voice\pro r3 5.ogg
+voice\pro r3 6.ogg
+voice\pro r3 7.ogg
+voice\pro r3 8.ogg
+voice\pro r3 9.ogg
+voice\pro r3 a.ogg
+voice\pro r3win.ogg
+voice\pro tsun 1.ogg
+voice\pro tsun 10.ogg
+voice\pro tsun 11.ogg
+voice\pro tsun 12.ogg
+voice\pro tsun 13.ogg
+voice\pro tsun 2.ogg
+voice\pro tsun 3.ogg
+voice\pro tsun 4.ogg
+voice\pro tsun 5.ogg
+voice\pro tsun 6.ogg
+voice\pro tsun 7.ogg
+voice\pro tsun 8.ogg
+voice\pro tsun 9.ogg
