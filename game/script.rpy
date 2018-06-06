@@ -1,8 +1,13 @@
 ﻿label start:
 
+#FLAGS
+    $ chihiro = 0
+    $ kiyoko = 0
+
     ### SCENE: INTRO ###
 
     scene black with dissolve
+    play music vn fadein 1.0
     "School began as any other school day did. It also ended in more or less the same manner."
     "It's what happened {i}after{/i} school that things started to get a little hectic."
 
@@ -88,7 +93,7 @@
     show tsu glare
     show chi default
     "Not that we ever interacted much. Still, she was giving me... quite the dirty look."
-    "Somehow, I felt like I was intruding on her den.. Was she trying to memorize my scent?"
+    "Somehow, I felt like I was intruding on her den. Was she trying to memorize my scent?"
 
     show chi defaultc
     voice "voice/chi intro 9.ogg"
@@ -150,9 +155,8 @@
     voice "voice/chi intro 14.ogg"
     extend "weeeell..."
 
-    #voice: due for retake
-    show tsu angry
-    voice "voice/Kiyoko_Line_7.ogg"
+    show tsu angryc
+    voice "voice/kiyoko plebs.ogg"
     tsu "They're cramming for finals instead of honoring their commitments to Anime Club. Like {i}plebeians{/i}."
 
     show tsu sadc
@@ -427,6 +431,8 @@
 
     #could make this a round 3 subject instead
 
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     show chi feisty
     show tsu smirk
@@ -486,7 +492,7 @@
     tsu "Well, there's a lot of {i}dere{/i} archetypes. It comes from 'deredere'. Or lovey-dovey."
 
     show tsu neutralc
-    #voice: missing line
+    voice "voice/kiyoko dan.ogg"
     tsu "The {i}dan{/i} comes from 'danmari'. Which means to shut up or stay calm."
 
     show chi default
@@ -516,7 +522,13 @@
     "So Chihiro liked soft-spoken and shy girls? Somehow that reminds me of her."
     "I guess she was always the motherly type. Still, it got me thinking. It sounds like a lot of investment..."
 
+    stop music fadeout 1.0
+    play music present fadein 1.0
     #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     show tsu smirkc
     voice "voice/Kiyoko_Line_38.ogg"
@@ -571,7 +583,7 @@
     chi "Mmhm! Exactly!~"
 
     show tsu neutral
-    #voice: retake needed
+    voice "voice/kiyoko tsun.ogg"
     tsu "It's in the name. {i}Tsun{/i} comes from 'tsuntsun', meaning 'irritable or aloof'..."
 
     show tsu glare
@@ -599,7 +611,13 @@
 
     "So Kiyoko's into tsunderes? Maybe she likes self-inserts..."
 
+    stop music fadeout 1.0
+    play music present fadein 1.0
     #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     show tsu happy
     voice "voice/Kiyoko_Line_49.ogg"
@@ -649,6 +667,14 @@
     voice "voice/pro r1 15.ogg"
     pro "Well of course, this is real life. Nothing's more real than arguing over anime."
 
+    menu:
+        "Chihiro and Danderes":
+            $ chihiro += 1
+            jump poll1Chi
+        "Kiyoko and Tsunderes":
+            $ kiyoko += 1
+            jump poll1Tsu
+
     #TODO: Twilio poll here
 
     label poll1Chi:
@@ -659,8 +685,12 @@
         show tsu sadc
         voice "voice/Kiyoko_Line_52.ogg"
         tsu "Tch. This isn't even my final form."
-        python:
-            pollScore["chi"] = pollScore["chi"] + 1
+
+        #poll: might be redundant
+        #python:
+        #    pollScore["chi"] = pollScore["chi"] + 1
+
+
         jump endpoll1
     label poll1Tsu:
         show tsu smirk
@@ -670,15 +700,19 @@
 
         show chi sad
         chi "Th-this isn't {i}that{/i} kind of contest...!"
-        python:
-            pollScore["tsu"] = pollScore["tsu"] + 1
-        jump endpoll1
+
+        #poll: might be redundant
+        #python:
+        #    pollScore["tsu"] = pollScore["tsu"] + 1
+        #jump endpoll1
 
     label endpoll1:
         #game continues
 
     ### SCENE: Round 2 ###
 
+    stop music fadeout 1.0
+    play music vn fadein 1.0
     show chi feisty
     show tsu default
     voice "voice/chi r2 1.ogg"
@@ -728,7 +762,7 @@
     pro "Of course. Harem endings."
 
     show tsu angryc
-    #voice: retake needed
+    voice "voice/kiyoko adaptation.ogg"
     tsu "As I recall, the adaptation took, ah, creative liberties... but Kazama and Hiro made the jump to the small screen remarkably well."
 
     show chi default
@@ -758,7 +792,13 @@
     "Chihiro seemed to be into bishonen characters. The prototypical pretty boy with effeminate features."
     "Wonder what the appeal is. It's probably in their design..."
 
+    stop music fadeout 1.0
+    play music present fadein 1.0
     #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music vn fadein 1.0
 
     show tsu happy
     voice "voice/Kiyoko_Line_61.ogg"
@@ -796,7 +836,7 @@
     chi "...and he put too much salt in Rama-sama's broth!"
 
     show tsu glare
-    #voice: needs retake
+    voice "voice/kiyoko pp.ogg"
     tsu "It was a power play!"
 
     show chi angryc
@@ -830,6 +870,13 @@
     "Kiyoko was utterly smitten by bad boys, it seemed. Not exactly an uncommon opinion."
     "It's a cute enough fantasy, but it's a weirdly specific one? I don't think I get it..."
 
+    menu:
+        "Chihiro and Bishonen":
+            $ chihiro += 1
+            jump poll2Chi
+        "Kiyoko and Bad Boys":
+            $ kiyoko += 1
+            jump poll2Tsu
     #TODO: Twilio poll here
 
     label poll2Chi:
@@ -840,8 +887,11 @@
         voice "voice/Kiyoko_Line_70.ogg"
         show tsu glare
         tsu "What's that supposed to mean? They're {i}both cute{/i}, stupid."
-        python:
-            pollScore["chi"] = pollScore["chi"] + 1
+
+        #poll: might be redundant
+        #python:
+        #    pollScore["chi"] = pollScore["chi"] + 1
+
         jump endpoll2
     label poll2Tsu:
         voice "voice/Kiyoko_Line_71.ogg"
@@ -851,8 +901,11 @@
         voice "voice/chi r2end 2.ogg"
         show chi annoyed
         chi "I-I want a recount, that can't be right... something's fishy!"
-        python:
-            pollScore["tsu"] = pollScore["tsu"] + 1
+
+        #poll: might be redundant
+        #python:
+        #    pollScore["tsu"] = pollScore["tsu"] + 1
+
         jump endpoll2
 
     label endpoll2:
@@ -866,15 +919,21 @@
     voice "voice/pro r3 1.ogg"
     pro "That's two rounds down. Jeez, you guys really get into this, don't you..."
 
-    python:
-        charTied = 1
-        for char in pollScore:
-            for compChar in pollScore:
-                if char != compChar and pollScore[char] != pollScore[compChar]:
-                    charTied = 0
-                    break
+    #poll: might be redundant
+    #python:
+    #    charTied = 1
+    #    for char in pollScore:
+    #        for compChar in pollScore:
+    #            if char != compChar and pollScore[char] != pollScore[compChar]:
+    #                charTied = 0
+    #                break
 
-    if charTied:
+    if kiyoko == chihiro:
+        jump charTied
+    else:
+        jump charLead
+
+    label charTied:
          #if it's tied up
         voice "voice/chi r3 1.ogg"
         show chi feisty
@@ -902,7 +961,7 @@
         voice "voice/pro r3 3.ogg"
         pro "I'm getting a pretty clear picture of why no one else bothered to show up..."
 
-    else:
+    label charLead:
         #if one of the girls is leading by 2 already
         voice "voice/chi r3 3.ogg"
         show chi feisty
@@ -1014,7 +1073,13 @@
 
     "Well Chihiro seems particularly interested in the silent and mysterious type. Still, there has to be something more to it..."
 
+    stop music fadeout 1.0
+    play music present fadein 1.0
     #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     show tsu neutralc
     voice "voice/Kiyoko_Line_78.ogg"
@@ -1037,8 +1102,7 @@
     voice "voice/chi r3 17.ogg"
     chi "No! I would never-"
 
-    #voice: due for retake
-    voice "voice/pro r3 13.ogg"
+    voice "voice/pro stupid.ogg"
     pro "I dunno, I think she was calling you stupid."
 
     show chi sadc
@@ -1085,9 +1149,22 @@
     "So Kiyoko liked the childhood, best friend character? That's still a pretty unexpected choice, coming from her, but I can kind of see it."
     "Still, I have to wonder what that's about..."
 
-#PRESENTATION CUT
+    stop music fadeout 1.0
+    play music present fadein 1.0
+    #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     #TODO: Twilio poll here
+    menu:
+        "Chihiro and Mysterious Waifus":
+            $ chihiro += 1
+            jump poll3Chi
+        "Kiyoko and Childhood Best Friends":
+            $ kiyoko += 1
+            jump poll3Tsu
 
     label poll3Chi:
         voice "voice/chi r3end 1.ogg"
@@ -1098,9 +1175,12 @@
         show tsu angryc
         tsu "Hmph. Call it a curious case of crummy taste..."
 
-        python:
-            pollScore["chi"] = pollScore["chi"] + 1
+        #poll: might be redundant
+        #python:
+        #    pollScore["chi"] = pollScore["chi"] + 1
+
         jump endpoll3
+
     label poll3Tsu:
         voice "voice/Kiyoko_Line_88.ogg"
         show tsu happyc
@@ -1110,23 +1190,31 @@
         show chi pity
         chi "But they aren't even dating in the anime..."
 
-        python:
-            pollScore["tsu"] = pollScore["tsu"] + 1
+        #poll: might be redundant
+        #python:
+        #    pollScore["tsu"] = pollScore["tsu"] + 1
+
         jump endpoll3
 
     label endpoll3:
+        stop music fadeout 1.0
         voice "voice/pro r3win.ogg"
         pro "So, uh, that's it? Then I guess the winner is..."
+        if chihiro < kiyoko:
+            jump routeTsu
+        else:
+            jump routeChi
 
 
     ##################################### SPLIT CODE IF NEEDED HERE ####################################################
 
     ### ROUTE SELECT: TSUNDERE ROUTE ###
     label routeTsu:
+        play music tsutheme fadein 1.0
         show tsu smirkc zorder 2:
-                    align (0.35, 1.0)
+            align (0.35, 1.0)
         show chi neutral zorder 2:
-                    align (0.65, 1.0)
+            align (0.65, 1.0)
         show classroomevening zorder 1 with dissolve
 
         voice "voice/Kiyoko_Line_89.ogg"
@@ -1138,7 +1226,7 @@
         voice "voice/pro tsun 1.ogg"
         pro "It sounded like she had something caught in her windpipe."
 
-        #voice: needs retake
+        voice "voice/kiyoko gracious.ogg"
         show tsu neutral
         tsu "Ah, those glowering expressions are {i}such{/i} a killjoy. I'm a gracious winner!"
 
@@ -1202,12 +1290,15 @@
         show glasses zorder 3 with dissolve
         "Reaching into her knapsack, Kiyoko pulled out a small pair of reading glasses, going over the letter-print."
 
+        show tsucgsmile with dissolve
         voice "voice/Kiyoko_Line_95.ogg"
         tsu "You must attend at least one meeting a month. You must engage with tasteful, school-appropriate material. You are eligible to one viewing party recommendation..."
 
         voice "voice/pro tsun 6.ogg"
         pro "...Huh."
 
+        show tsucgfrown
+        hide tsucgsmile
         show tsu glare
         voice "voice/Kiyoko_Line_96.ogg"
         tsu "What? This stuff is simple. Don't tell me I’ve lost you already."
@@ -1243,8 +1334,15 @@
         "She groaned aloud, putting down the pamphlet."
         "There's probably something more to the whole glasses thing though..."
 
+        stop music fadeout 1.0
+        play music present fadein 1.0
         #PRESENTATION CUT
+        #cg: placeholder
+        "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+        stop music fadeout 1.0
+        play music tsutheme fadein 1.0
 
+        hide tsucgfrown with dissolve
         show tsu neutral
         voice "voice/Kiyoko_Line_102.ogg"
         tsu "I don't wanna wear my glasses too much around school. I get by fine as it is."
@@ -1287,7 +1385,7 @@
         "It beats going straight home every single day of school. Kiyoko can get to be a handful though."
         "She's eccentric, but she attracts her own little cult of personality. I imagine she wouldn't have it any other way."
 
-        jump gameEnd
+        jump credits
 
     label routeChi:
         show tsu neutral zorder 2:
@@ -1295,6 +1393,7 @@
         show chi defaultc zorder 2:
             align (0.65, 1.0)
         show classroomevening zorder 1 with dissolve
+        play music chitheme fadein 1.0
         voice "voice/chi bf 1.ogg"
         chi "Me! Oh, I don't win very often! How exciting!"
 
@@ -1412,9 +1511,8 @@
         voice "voice/chi bf 16.ogg"
         chi "Hehehe~! I guess? But they're pretty popular too!"
 
-        #voice: due for retake
         show chi pity
-        voice "voice/chi bf 17.ogg"
+        voice "voice/Chi-retake2.ogg"
         chi "Something about another person uncompromisingly in love with you is... kinda romantic, in a weird way!"
 
         voice "voice/pro bf 11.ogg"
@@ -1438,13 +1536,19 @@
         "Chihiro was pretty gentle and peaceful, but sometimes you gotta wonder if one of your best friends is about to just fling themselves off the deep end."
         "And now she's planted that little germ of a thought in my head..."
 
+        stop music fadeout 1.0
+        play music present fadein 1.0
         #PRESENTATION CUT
+        #cg: placeholder
+        "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+        stop music fadeout 1.0
+        play music chitheme fadein 1.0
 
         voice "voice/pro bf 13.ogg"
         pro "Well, Chihiro, you've given me a lot to think about."
 
         show chi defaultc
-        #voice: missing line
+        voice "voice/chi animeclub.ogg"
         voice "voice/chi bf 21.ogg"
         chi "Mmhm! I knew you'd have a lot of fun at Anime Club!~"
 
@@ -1466,22 +1570,19 @@
         voice "voice/pro bf 16.ogg"
         pro "I-I'm not here to judge. We should get going though, it's getting late."
 
-        show chi defaultc
+        scene chicg with dissolve
         voice "voice/chi bf 24.ogg"
         chi "Oh! Right, and I have to study! See you another time?"
 
         voice "voice/pro bf 17.ogg"
         pro "Definitely."
 
-        scene black with dissolve
+
         "That marked my first day at Anime Club. It was a little off-the-wall, but..."
         "With Chihiro, it felt familiar. Maybe this would work out after all."
         "...I hope they don't {i}actually haze me{/i} when more people show up to Anime Club, though. Jeez."
+        jump credits
 
-        jump gameEnd
-
-
-
-    # This ends the game.
-label gameEnd:
+label credits:
+    #make a credits image to put in here later
     return

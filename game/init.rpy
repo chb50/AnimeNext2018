@@ -3,26 +3,40 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-
 #TODO: Add backgrounds and sprites where appropriate
 ### BACKGROUNDS ###
 
-image classroom = im.Scale("bgs/classroom.png", 1920, 1080)
-image classroomevening = im.Scale("bgs/classroom evening.png", 1920, 1080)
+image classroom = im.Scale("bgs/classroom.png", 2220, 1249)
+image classroomevening = im.Scale("bgs/classroom evening.png", 2220, 1249)
 image hallway = im.Scale("bgs/hallway school.png", 1920, 1080)
 image hallwayevening = im.Scale("bgs/hallway school evening.png", 1920, 1080)
 
+### MUSIC ###
+
+define chitheme = "music/Cheery Monday.mp3"
+define vn = "music/Funin and Sunin.mp3"
+define debate = "music/Doobly Doo.mp3"
+define present = "music/Hackbeat.mp3"
+define tsutheme = "music/Teddy Bear Waltz.mp3"
+
+### CGS AND VFX ###
+image chicg = "cgs/CHIHIRO_1_16x9.png"
+image chicgfull = "cgs/CHIHIRO_FULL.png"
+image tsucgsmile = "cgs/KIYOKO_CG_TEST_2_SMILE.png"
+image tsucgsmilefull = "cgs/KIYOKO_CG_TEST_2_FULL_-_SMILE.png"
+image tsucgfrown = "cgs/KIYOKO_CG_TEST_2_FROWN.png"
+image tsucgfrownfull = "cgs/KIYOKO_CG_TEST_2_FULL_-_FROWN.png"
 
 #TODO: add audio where appropriate
 
 #TODO: if your are adding more characters, dont forget to update them in pollScore variable as well
-define pro = Character("Protagonist", callback=speaker("pro"))
-define user = Character(_("[userName]"), color = "#ff9900")
+define pro = Character("Protagonist", callback=speaker("pro"), color = "#4d4d4d")
+define user = Character(_("[userName]"), color = "#4d4d4d")
 
 ##DYNAMIC CHARACTER LABBING SECTION##
 
-define chi = Character("Chihiro", callback=speaker("chi"))
-define tsu = Character("Kiyoko", callback=speaker("tsu"))
+define chi = Character("Chihiro", callback=speaker("chi"), color = "#2d33ad")
+define tsu = Character("Kiyoko", callback=speaker("tsu"), color = "#9d1919")
 
 init python:
     DefineImages('bgs', prepend='bg')

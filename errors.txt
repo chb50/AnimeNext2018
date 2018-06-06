@@ -2,9 +2,21 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 1337: end of line expected.
-    show hallwayevening with dissolve behind chi, tsu
-                                      ^
+File "game/script.rpy", line 1338: could not parse statement.
+    play music present 1.0
+                       ^
+
+File "game/script.rpy", line 1343: could not parse statement.
+    play music tsutheme 1.0
+                        ^
+
+File "game/script.rpy", line 1540: could not parse statement.
+    play music present 1.0
+                       ^
+
+File "game/script.rpy", line 1545: could not parse statement.
+    play music chitheme 1.0
+                        ^
 
 Ren'Py Version: Ren'Py 7.0.0.196
-Sat Jun 02 03:13:16 2018
+Wed Jun 06 18:38:55 2018
