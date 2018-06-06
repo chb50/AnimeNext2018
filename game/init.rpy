@@ -11,9 +11,21 @@ image classroomevening = im.Scale("bgs/classroom evening.png", 2220, 1249)
 image hallway = im.Scale("bgs/hallway school.png", 1920, 1080)
 image hallwayevening = im.Scale("bgs/hallway school evening.png", 1920, 1080)
 
+### MUSIC ###
+
+define chitheme = "music/Cheery Monday.mp3"
+define vn = "music/Funin and Sunin.mp3"
+define debate = "music/Doobly Doo.mp3"
+define present = "music/Hackbeat.mp3"
+define tsutheme = "music/Teddy Bear Waltz.mp3"
+
 ### CGS AND VFX ###
 image chicg = "cgs/CHIHIRO_1_16x9.png"
 image chicgfull = "cgs/CHIHIRO_FULL.png"
+image tsucgsmile = "cgs/KIYOKO_CG_TEST_2_SMILE.png"
+image tsucgsmilefull = "cgs/KIYOKO_CG_TEST_2_FULL_-_SMILE.png"
+image tsucgfrown = "cgs/KIYOKO_CG_TEST_2_FROWN.png"
+image tsucgfrownfull = "cgs/KIYOKO_CG_TEST_2_FULL_-_FROWN.png"
 
 #TODO: add audio where appropriate
 

@@ -7,6 +7,7 @@
     ### SCENE: INTRO ###
 
     scene black with dissolve
+    play music vn fadein 1.0
     "School began as any other school day did. It also ended in more or less the same manner."
     "It's what happened {i}after{/i} school that things started to get a little hectic."
 
@@ -430,6 +431,8 @@
 
     #could make this a round 3 subject instead
 
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     show chi feisty
     show tsu smirk
@@ -519,7 +522,13 @@
     "So Chihiro liked soft-spoken and shy girls? Somehow that reminds me of her."
     "I guess she was always the motherly type. Still, it got me thinking. It sounds like a lot of investment..."
 
+    stop music fadeout 1.0
+    play music present fadein 1.0
     #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     show tsu smirkc
     voice "voice/Kiyoko_Line_38.ogg"
@@ -602,7 +611,13 @@
 
     "So Kiyoko's into tsunderes? Maybe she likes self-inserts..."
 
+    stop music fadeout 1.0
+    play music present fadein 1.0
     #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     show tsu happy
     voice "voice/Kiyoko_Line_49.ogg"
@@ -696,6 +711,8 @@
 
     ### SCENE: Round 2 ###
 
+    stop music fadeout 1.0
+    play music vn fadein 1.0
     show chi feisty
     show tsu default
     voice "voice/chi r2 1.ogg"
@@ -775,7 +792,13 @@
     "Chihiro seemed to be into bishonen characters. The prototypical pretty boy with effeminate features."
     "Wonder what the appeal is. It's probably in their design..."
 
+    stop music fadeout 1.0
+    play music present fadein 1.0
     #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music vn fadein 1.0
 
     show tsu happy
     voice "voice/Kiyoko_Line_61.ogg"
@@ -1050,7 +1073,13 @@
 
     "Well Chihiro seems particularly interested in the silent and mysterious type. Still, there has to be something more to it..."
 
+    stop music fadeout 1.0
+    play music present fadein 1.0
     #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     show tsu neutralc
     voice "voice/Kiyoko_Line_78.ogg"
@@ -1120,7 +1149,13 @@
     "So Kiyoko liked the childhood, best friend character? That's still a pretty unexpected choice, coming from her, but I can kind of see it."
     "Still, I have to wonder what that's about..."
 
-#PRESENTATION CUT
+    stop music fadeout 1.0
+    play music present fadein 1.0
+    #PRESENTATION CUT
+    #cg: placeholder
+    "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+    stop music fadeout 1.0
+    play music debate fadein 1.0
 
     #TODO: Twilio poll here
     menu:
@@ -1162,6 +1197,7 @@
         jump endpoll3
 
     label endpoll3:
+        stop music fadeout 1.0
         voice "voice/pro r3win.ogg"
         pro "So, uh, that's it? Then I guess the winner is..."
         if chihiro < kiyoko:
@@ -1174,6 +1210,7 @@
 
     ### ROUTE SELECT: TSUNDERE ROUTE ###
     label routeTsu:
+        play music tsutheme fadein 1.0
         show tsu smirkc zorder 2:
             align (0.35, 1.0)
         show chi neutral zorder 2:
@@ -1253,12 +1290,15 @@
         show glasses zorder 3 with dissolve
         "Reaching into her knapsack, Kiyoko pulled out a small pair of reading glasses, going over the letter-print."
 
+        show tsucgsmile with dissolve
         voice "voice/Kiyoko_Line_95.ogg"
         tsu "You must attend at least one meeting a month. You must engage with tasteful, school-appropriate material. You are eligible to one viewing party recommendation..."
 
         voice "voice/pro tsun 6.ogg"
         pro "...Huh."
 
+        show tsucgfrown
+        hide tsucgsmile
         show tsu glare
         voice "voice/Kiyoko_Line_96.ogg"
         tsu "What? This stuff is simple. Don't tell me I’ve lost you already."
@@ -1294,8 +1334,15 @@
         "She groaned aloud, putting down the pamphlet."
         "There's probably something more to the whole glasses thing though..."
 
+        stop music fadeout 1.0
+        play music present fadein 1.0
         #PRESENTATION CUT
+        #cg: placeholder
+        "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+        stop music fadeout 1.0
+        play music tsutheme fadein 1.0
 
+        hide tsucgfrown with dissolve
         show tsu neutral
         voice "voice/Kiyoko_Line_102.ogg"
         tsu "I don't wanna wear my glasses too much around school. I get by fine as it is."
@@ -1346,6 +1393,7 @@
         show chi defaultc zorder 2:
             align (0.65, 1.0)
         show classroomevening zorder 1 with dissolve
+        play music chitheme fadein 1.0
         voice "voice/chi bf 1.ogg"
         chi "Me! Oh, I don't win very often! How exciting!"
 
@@ -1463,9 +1511,8 @@
         voice "voice/chi bf 16.ogg"
         chi "Hehehe~! I guess? But they're pretty popular too!"
 
-        #voice: due for retake
         show chi pity
-        voice "voice/chi bf 17.ogg"
+        voice "voice/Chi-retake2.ogg"
         chi "Something about another person uncompromisingly in love with you is... kinda romantic, in a weird way!"
 
         voice "voice/pro bf 11.ogg"
@@ -1489,7 +1536,13 @@
         "Chihiro was pretty gentle and peaceful, but sometimes you gotta wonder if one of your best friends is about to just fling themselves off the deep end."
         "And now she's planted that little germ of a thought in my head..."
 
+        stop music fadeout 1.0
+        play music present fadein 1.0
         #PRESENTATION CUT
+        #cg: placeholder
+        "THIS IS A CG SEQUENCE. WE WILL PUT IT IN LATER."
+        stop music fadeout 1.0
+        play music chitheme fadein 1.0
 
         voice "voice/pro bf 13.ogg"
         pro "Well, Chihiro, you've given me a lot to think about."

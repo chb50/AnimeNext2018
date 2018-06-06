@@ -74140,3 +74140,2338 @@ INFO                     (u'chi', u'brow', u'default')
 INFO                     (u'chi', u'brow', u'default')
 INFO                     (u'chi', u'brow', u'default')
 INFO                     (u'chi', u'brow', u'default')
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+CRITICAL                 
+--- launch game ---
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
+
+--- launch game ---
+INFO                     Game directory: E:\AnimeNext2018\game
+INFO                     (u'chi', u'brow', u'default')
+INFO                     (u'chi', u'brow', u'default')
