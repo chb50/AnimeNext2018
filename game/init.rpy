@@ -30,8 +30,7 @@ image tsucgfrownfull = "cgs/KIYOKO_CG_TEST_2_FULL_-_FROWN.png"
 #TODO: add audio where appropriate
 
 #TODO: if your are adding more characters, dont forget to update them in pollScore variable as well
-define pro = Character("Protagonist", callback=speaker("pro"), color = "#4d4d4d")
-define user = Character(_("[userName]"), color = "#4d4d4d")
+define pro = Character(_("[userName]"), callback=speaker("pro"), color = "#4d4d4d")
 
 ##DYNAMIC CHARACTER LABBING SECTION##
 

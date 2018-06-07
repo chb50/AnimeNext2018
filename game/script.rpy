@@ -6,6 +6,9 @@
 
     ### SCENE: INTRO ###
 
+    python:
+        userName = "protag"
+    
     scene black with dissolve
     play music vn fadein 1.0
     "School began as any other school day did. It also ended in more or less the same manner."
